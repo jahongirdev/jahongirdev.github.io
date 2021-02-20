@@ -1,1 +1,8 @@
-<h2 align="center">Welcome to my website!</h2>
+<html>
+  <head>
+    <title>Jahongir Murodboev</title>
+  </head>
+  <body>
+    <h3 align="center">Coming Soon 😉</h3>
+  </body>
+</html>
